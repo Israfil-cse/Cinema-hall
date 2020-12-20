@@ -1,0 +1,14 @@
+form{
+    width: 400px;
+    box-shadow: 1px 1px 2px gray;
+    padding: 20px;
+}
+.inputStyle input{
+    border : none;
+    width: 100%;
+    outline: none;
+}
+.inputStyle{
+    border-bottom: 1px solid #000;
+    margin-bottom: 5px;
+}

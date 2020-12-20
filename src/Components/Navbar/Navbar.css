@@ -1,0 +1,13 @@
+
+.NavSection{
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+    background-color: #111430;
+}
+
+.nav_Item{
+    margin: 5px;
+    font-size: 20px;
+}
+.btn{
+    width: 150px;
+}

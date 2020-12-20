@@ -1,0 +1,18 @@
+form{
+    width: 50%;
+    margin: 0 auto;
+}
+.logo{
+    height: 100px;
+}
+.formBorder{
+    border: 1px solid gray;
+    padding: 20px;
+}
+.submitBtn{
+    padding: 10px;
+}
+
+.error{
+    color: red;
+}
